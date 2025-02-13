@@ -1,3 +1,5 @@
+package cipherschooljava.ques12;
+
 import java.util.*;
 
 public class code {
