@@ -26,6 +26,6 @@ public class Main {
                 b = c;
             }
         }
-
+            sc.close();
         }
 }
