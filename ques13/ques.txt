@@ -1,0 +1,12 @@
+Problem Description:
+Write a method to check if a given string is a palindrome (reads the same forwards and backwards).
+
+Input: str = ""madam""
+Output: true
+
+Input: str = ""hello""
+Output: false
+
+Explanation:
+For the input string ""madam"", it reads the same forwards and backwards, so the output is true. For ""hello"", 
+it does not, so the output is false.
