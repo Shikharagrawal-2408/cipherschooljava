@@ -14,5 +14,6 @@ public class code {
         a = a - b; 
          System.out.println("changed value of a "+a); 
         System.out.println("changed value of b "+b);
+        sc.close ();
     }
 }
