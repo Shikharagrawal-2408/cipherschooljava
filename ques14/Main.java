@@ -1,3 +1,4 @@
+package cipherschooljava.ques14;
 import java.util.Scanner;
  class Main 
 {
