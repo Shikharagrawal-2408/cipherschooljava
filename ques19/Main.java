@@ -9,8 +9,8 @@ public class Main {
         if (n < 2) {
             System.out.println("-1"); 
             return;
+            
         }
-
         int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE;
         int arr[] = new int[n];
 
