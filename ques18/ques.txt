@@ -1,0 +1,7 @@
+Write a Java program to check if a given year is a leap year or not using an if-else construct.
+ A year is a leap year if:
+It is divisible by 4.
+But not divisible by 100, unless it is also divisible by 400.
+
+Input: 2024
+Output: 2024 is a Leap Year.
