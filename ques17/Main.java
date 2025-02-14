@@ -1,7 +1,5 @@
 package cipherschooljava.ques17;
 
-
-
 import java.util.Scanner;
 
 public class Main {
