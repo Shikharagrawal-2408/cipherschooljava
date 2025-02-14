@@ -1,0 +1,17 @@
+Write a Java program to perform matrix multiplication of two 2D arrays (matrices).
+Input two matrices of size n x m and m x p.
+Output the resultant matrix after multiplication.
+
+Input:
+Matrix A:
+2 3
+1 4
+
+Matrix B:
+3 2
+5 1
+
+Output:
+Resultant Matrix:
+19 8
+23 6
