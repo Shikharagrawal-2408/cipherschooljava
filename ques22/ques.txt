@@ -1,0 +1,6 @@
+Problem:
+Write a Java function that checks if two strings are anagrams of each other using char[] manipulation and StringBuilder.
+
+Example:
+Input: ""listen"", ""silent""
+Output: True
