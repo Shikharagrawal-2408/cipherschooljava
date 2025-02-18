@@ -18,7 +18,7 @@ public class Main {
 
             if(count==2)
             {
-                System.out.println(i+" ");
+                System.out.print(i+", ");
             }
             count=0;
         }
