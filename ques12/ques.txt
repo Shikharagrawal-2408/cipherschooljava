@@ -1,0 +1,9 @@
+Problem Description:
+
+Write a program to swap two integer variables without using a temporary variable.
+
+Input: a = 5, b = 10
+Output: a = 10, b = 5
+
+Explanation:
+The program swaps the values of a and b using arithmetic or bitwise operations, resulting in a being 10 and b being 5.

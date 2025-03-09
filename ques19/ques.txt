@@ -1,0 +1,6 @@
+Write a Java program that finds the second largest element in an array of integers. 
+If the array contains fewer than two distinct elements, return a message indicating that the second largest element cannot be determined.
+
+Input:
+5
+3 5 1 5 2

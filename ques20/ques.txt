@@ -1,0 +1,9 @@
+Problem:
+
+Write a program that takes two numbers and a mathematical operator (+, -, *, /, %, <<, >>, &, |, ^) 
+from the user and evaluates the expression following operator precedence rules.
+
+Example:
+Input: 5 * 2 + 10 / 2
+Output: 15
+Explanation: (5 * 2) + (10 / 2) = 10 + 5 = 15

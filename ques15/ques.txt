@@ -1,0 +1,18 @@
+Problem Description:
+Write a program to print a diamond pattern of asterisks (*) with a given number of rows.
+
+Input: n = 5
+Output:
+*
+***
+*****
+*******
+*********
+*******
+*****
+***
+*
+
+Explanation:
+The pattern consists of two parts: the upper half and the lower half. The upper half has n rows, 
+and the lower half has n-1 rows. Each row contains spaces followed by asterisks.

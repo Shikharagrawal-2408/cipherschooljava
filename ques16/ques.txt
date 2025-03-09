@@ -1,0 +1,6 @@
+Write a Java program to print the Fibonacci series up to n terms using a for loop.
+The Fibonacci series starts with 0 and 1, and each subsequent number is the sum of the previous two.
+If n = 6, the series would be: 0, 1, 1, 2, 3, 5.
+
+Input: 6
+Output: Fibonacci Series: 0, 1, 1, 2, 3, 5
